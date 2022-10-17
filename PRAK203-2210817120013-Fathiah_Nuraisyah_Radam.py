@@ -1,0 +1,8 @@
+a, b, i, j, x, y= input ().split()
+bil1= ((int(a)) - (int(b))) * (int(i)) / (int(j)) - ((int(x)) + (int(y)))
+print('%.3f\n'%(bil1))
+a, b= input ().split()
+i, j= input ().split()
+x, y= input ().split()
+bil1= ((int(a)) - (int(b))) * (int(i)) / (int(j)) - ((int(x)) + (int(y)))
+print('%.3f'%(bil1))

@@ -1,1 +1,0 @@
-format(bil1, bil2), 'adalah "%.2f"'%jumlah)
